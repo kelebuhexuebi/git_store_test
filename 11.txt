@@ -2,3 +2,4 @@ aa
 不追踪github仓库是什么样子？
 取消暂存区修改？？
 git push 不是url？ 为什么clone是url？
+url也行 那别名呢？
